@@ -1,0 +1,28 @@
+The Forecast Company – Public Source License
+Version 1.0 – 2025
+
+Copyright (c) 2025 The Forecast Company
+
+This repository is publicly visible for transparency and reference only.
+
+You are NOT permitted to:
+
+Use the code in whole or in part for any purpose.
+
+Copy, modify, reproduce, or distribute this code.
+
+Incorporate any part of this code into your own projects, products, or services.
+
+Deploy or run this code in any environment outside of The Forecast Company.
+
+You ARE permitted to:
+
+View the code for personal, non-commercial inspection or educational reference only.
+
+No License Granted:
+This is not an open-source license. No rights or permissions are granted under copyright or any other legal doctrine unless you have a separate, explicit, written agreement from The Forecast Company.
+
+Disclaimer:
+The code is provided “as is”, with no warranties, and The Forecast Company disclaims all liability related to its use or misuse.
+
+For licensing inquiries or commercial use requests, contact: theforecastcompany@gmail.com
