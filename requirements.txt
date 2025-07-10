@@ -1,4 +1,5 @@
 numpy
+setuptools<81
 streamlit
 pandas
 matplotlib
